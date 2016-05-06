@@ -1,5 +1,5 @@
 #  Base image from tushars-tp/ubuntu-precise-32bit
-FROM ubuntu-precise-32bit
+FROM tushars/ubuntu-precise-32bit:latest
 
 # File Author / Maintainer
 MAINTAINER Tushar Sakhadeo
